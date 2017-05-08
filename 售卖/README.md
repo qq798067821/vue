@@ -1,14 +1,4 @@
 
+本项目运用 了vue-cli + vue-resource 和 vue的路由
 
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080  
-npm run dev
-
-# build for production with minification
-npm run build
-``` 
+json-server(调试工具)
